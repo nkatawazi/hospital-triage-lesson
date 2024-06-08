@@ -1,0 +1,57 @@
+[
+  {
+    "Id": 1,
+    "Severity": "A",
+    "CheckinTime": "12/2/2022 9:00:00 AM +00:00"
+  },
+  {
+    "Id": 2,
+    "Severity": "B",
+    "CheckinTime": "12/2/2022 9:10:00 AM +00:00"
+  },
+  {
+    "Id": 3,
+    "Severity": "A",
+    "CheckinTime": "12/2/2022 9:15:00 AM +00:00"
+  },
+  {
+    "Id": 4,
+    "Severity": "C",
+    "CheckinTime": "12/2/2022 9:30:00 AM +00:00"
+  },
+  {
+    "Id": 5,
+    "Severity": "C",
+    "CheckinTime": "12/2/2022 9:35:00 AM +00:00"
+  },
+  {
+    "Id": 6,
+    "Severity": "C",
+    "CheckinTime": "12/2/2022 9:40:00 AM +00:00"
+  },
+  {
+    "Id": 7,
+    "Severity": "B",
+    "CheckinTime": "12/2/2022 9:45:00 AM +00:00"
+  },
+  {
+    "Id": 8,
+    "Severity": "C",
+    "CheckinTime": "12/2/2022 9:45:00 AM +00:00"
+  },
+  {
+    "Id": 9,
+    "Severity": "A",
+    "CheckinTime": "12/2/2022 9:50:00 AM +00:00"
+  },
+  {
+    "Id": 10,
+    "Severity": "B",
+    "CheckinTime": "12/2/2022 9:55:00 AM +00:00"
+  },
+  {
+    "Id": 11,
+    "Severity": "A",
+    "CheckinTime": "12/2/2022 10:00:00 AM +00:00"
+  }
+]
